@@ -5,6 +5,7 @@
 ## IconTexture: Interface/AddOns/KiwiPlates/media/kiwi.tga
 ## X-Flavor: Mainline
 ## X-Curse-Project-ID: 947825
+## X-Wago-ID: L6JD2yGv
 ## LoadOnDemand: 1
 ## Dependencies: KiwiPlates
 
