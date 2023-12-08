@@ -1,4 +1,4 @@
-name: Build KiwiPlatesThemes
+name: Build KiwiPlatesProfiles
 
 on:
   push:
