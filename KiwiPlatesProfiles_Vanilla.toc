@@ -1,5 +1,5 @@
 ## Interface: 11500
-## Title: |cFF7FFF72Kiwi|r Plates Themes
+## Title: |cFF7FFF72Kiwi|r Plates Profiles
 ## Author: MiCHaEL
 ## Version: @project-version@
 ## IconTexture: Interface/AddOns/KiwiPlates/media/kiwi.tga
