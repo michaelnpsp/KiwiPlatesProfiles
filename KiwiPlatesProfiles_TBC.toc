@@ -4,6 +4,7 @@
 ## Version: @project-version@
 ## IconTexture: Interface/AddOns/KiwiPlates/media/kiwi.tga
 ## X-Flavor: TBC
+## X-Curse-Project-ID: 947825
 ## LoadOnDemand: 1
 ## Dependencies: KiwiPlates
 
