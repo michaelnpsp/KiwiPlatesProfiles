@@ -1,0 +1,11 @@
+## Interface: 30403
+## Title: |cFF7FFF72Kiwi|r Plates Profiles
+## Author: MiCHaEL
+## Version: @project-version@
+## IconTexture: Interface/AddOns/KiwiPlates/media/kiwi.tga
+## X-Flavor: Wrath
+## LoadOnDemand: 1
+## Dependencies: KiwiPlates
+
+profiles/LortiUI.lua
+profiles/ModernUI.lua

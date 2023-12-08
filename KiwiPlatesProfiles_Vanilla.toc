@@ -1,0 +1,11 @@
+## Interface: 11500
+## Title: |cFF7FFF72Kiwi|r Plates Themes
+## Author: MiCHaEL
+## Version: @project-version@
+## IconTexture: Interface/AddOns/KiwiPlates/media/kiwi.tga
+## X-Flavor: Vanilla
+## LoadOnDemand: 1
+## Dependencies: KiwiPlates
+
+profiles/LortiUI.lua
+profiles/ModernUI.lua
