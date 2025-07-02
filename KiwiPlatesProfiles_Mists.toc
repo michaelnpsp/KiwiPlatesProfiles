@@ -1,0 +1,13 @@
+## Interface: 50500
+## Title: |cFF7FFF72Kiwi|r Plates Profiles
+## Author: MiCHaEL
+## Version: @project-version@
+## IconTexture: Interface/AddOns/KiwiPlates/media/kiwi.tga
+## X-Flavor: Cata
+## X-Curse-Project-ID: 947825
+## X-Wago-ID: L6JD2yGv
+## LoadOnDemand: 1
+## Dependencies: KiwiPlates
+
+profiles/LortiUI.lua
+profiles/ModernUI.lua
